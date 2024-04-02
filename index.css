@@ -21,6 +21,9 @@
 .navigation button{
     margin-left: 15px;
     margin-right: 15px;
+    background-color: green;
+    height: 25px;
+    border-radius: 5px;
 }
 .navigation p{
     display: flex;
