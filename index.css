@@ -4,3 +4,21 @@
     padding: 0px;
     margin: -8px;
 }
+.navigation ul {
+    list-style-type: none;
+    display: flex;
+    text-align: right;
+    float: right;
+}
+.navigation li{
+    
+    margin: 2px;
+    margin-left: 25px;
+}
+.navigation a{
+    text-decoration: none;
+}
+.navigation button{
+    margin-left: 15px;
+    margin-right: 15px;
+}
