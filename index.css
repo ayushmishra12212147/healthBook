@@ -25,6 +25,9 @@
     height: 25px;
     border-radius: 5px;
 }
+/* .navigation button:hover{
+    
+} */
 .navigation p{
     display: flex;
     float: left;
